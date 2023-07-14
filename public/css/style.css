@@ -6,7 +6,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 :root {
-  --blue: #007bff;
+  --blue: #f108b7;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -9598,11 +9598,11 @@ h6,
 
 .menu-price {
   position: absolute;
-  margin: 0;
-  top: -5px;
-  right: 10px;
-  width: 45px;
-  height: 45px;
+  margin: 10;
+  top: 100px;
+  right: 100px;
+  width: 100px;
+  height: 100px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -9647,7 +9647,7 @@ h6,
 .page-header,
 .offer,
 .footer {
-  background: linear-gradient(rgba(51, 33, 29, 0.9), rgba(51, 33, 29, 0.9)), url(../img/bg.jpg);
+  background: linear-gradient(rgba(51, 33, 29, 0.9), rgba(51, 33, 29, 0.9)), url(../img/out.jpg);
   background-position: top;
   background-repeat: no-repeat;
   background-size: cover;
