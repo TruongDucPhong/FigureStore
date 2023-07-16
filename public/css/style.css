@@ -658,6 +658,7 @@ pre code {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
+  color: #a71d2a;
 }
 
 .col {
@@ -9564,6 +9565,16 @@ h6,
   bottom: 0;
   background: rgba(51, 33, 29, 0.7);
   z-index: 1;
+}
+.anh {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.section-title1 {
+  padding: 115px 0 35px 0;
+  text-align: center;
 }
 
 .section-title {
